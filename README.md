@@ -1,5 +1,5 @@
-# BarçaTV+ Recommender System
-A simplified approach to building a video recommendation system on Barça’s mobile app
+# BarçaTV+ Recommended For You
+A simplified approach to personalized video recommendations on Barça’s mobile app
 
 ## Abstract
 [BarçaTV+](https://barcatvplus.fcbarcelona.com/en/) is the club's OTT, based on a subscription model, with more than 3,000 videos and 5,000 hours of content available globally on multiple platforms and languages. BarçaTV+ seeks to maximize the time of video consumption, engagement rates, user recurrence, and ultimately their LTV as to monetize the product and keep a sustainable and healthy business.
